@@ -1,6 +1,11 @@
 {
   "version": "2.0",
   "pipeline_stage": "validated",
+  "title": "Human medial temporal lobe iEEG during a visual working memory task (Boran et al.; DANDI 000575)",
+  "description": "Intracranial EEG recordings from medial temporal lobe depth electrodes (amygdala, hippocampus, entorhinal and parahippocampal cortex) in patients with drug-resistant epilepsy performing a visual working memory change-detection task with set sizes of 1, 2, 4 or 6 items. This BIDS-iEEG derivative represents the continuous iEEG series released in NWB format on DANDI (000575), with corrected sampling rates, amplitude units, MNI electrode coordinates and trial, period and response events. Single-unit data remain in the source NWB files.",
+  "methods_description": "Recordings were made with a Neuralynx ATLAS system at the University Hospital Zurich during invasive monitoring. Data were exported by the authors via FieldTrip to NWB, and then converted to BIDS-iEEG (BrainVision, float32 microvolts) without filtering, resampling or re-referencing. Sampling rates were verified from the 50 Hz mains peak and from coverage of trial times.",
+  "license": "CC-BY-4.0",
+  "dataset_type": "derivative",
   "authors": {
     "Ece Boran": {
       "orcid": "0000-0002-0395-7575"
@@ -30,6 +35,30 @@
       "orcid": "0000-0001-9141-381X"
     }
   },
+  "keywords": [
+    {
+      "term": "intracranial EEG"
+    },
+    {
+      "term": "working memory"
+    },
+    {
+      "term": "medial temporal lobe"
+    },
+    {
+      "term": "Hippocampus",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D006624"
+    },
+    {
+      "term": "Epilepsy",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004827"
+    },
+    {
+      "term": "depth electrodes"
+    }
+  ],
   "related_identifiers": [
     {
       "identifier": "10.48324/dandi.000575/0.231010.1811",
@@ -62,14 +91,11 @@
       "award_number": "2586"
     }
   ],
-  "title": "Human medial temporal lobe iEEG during a visual working memory task (Boran et al.; DANDI 000575)",
-  "license": "CC-BY-4.0",
-  "dataset_type": "derivative",
   "resource_type_general": "Dataset",
+  "resource_type_specific": "iEEG Dataset",
   "modalities": [
     "ieeg"
   ],
-  "resource_type_specific": "iEEG Dataset",
   "sizes": [
     "85.31 GB (45 files)"
   ],
@@ -79,33 +105,8 @@
     ".nwb",
     ".tsv",
     ".vhdr",
-    ".vmrk"
+    ".vmrk",
+    ".yml"
   ],
-  "description": "Intracranial EEG (depth electrode) recordings from the medial temporal lobe (amygdala, hippocampus, entorhinal and parahippocampal cortex) of patients with drug-resistant epilepsy performing a visual working memory change-detection task with set sizes of 1, 2, 4 or 6. This BIDS-iEEG derivative converts the continuous iEEG series from the authors' NWB release (DANDI 000575) for 11 participants and 12 sessions. It includes corrected sampling rates, event tables, and MNI electrode coordinates.",
-  "methods_description": "Recordings were made at the University Hospital Zurich with a Neuralynx ATLAS system (hardware passband 1-8000 Hz). They were exported by the authors via FieldTrip to NWB and then converted to BIDS-iEEG BrainVision float32 microvolts. Sampling rates were verified from the 50 Hz mains peak and series coverage. No filtering, resampling or re-referencing was applied during conversion.",
-  "keywords": [
-    {
-      "term": "iEEG"
-    },
-    {
-      "term": "intracranial EEG"
-    },
-    {
-      "term": "working memory"
-    },
-    {
-      "term": "medial temporal lobe"
-    },
-    {
-      "term": "Epilepsy",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D004827"
-    },
-    {
-      "term": "Hippocampus",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D006624"
-    }
-  ],
-  "source_hash": "d0593985512fc1a04153b6d259311cf2111165bb45410df027f5ced3d082c961"
+  "source_hash": "e4aa63d3d9a419cf3eee25fac75a9739641c7c34b11cc90fc9f295ec871f35fa"
 }
