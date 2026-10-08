@@ -1,0 +1,2 @@
+filename	source_file	recording_month	source_rate_attribute	sampling_frequency_used	float32_max_abs_err_uV
+ses-01/ieeg/sub-04_ses-01_task-visualwm_ieeg.vhdr	sourcedata/dandi-000575/sub-04/sub-04_ses-20170101T161000_behavior+ecephys.nwb	2017-01	32000.0	32000.0	7.63e-06

@@ -1,0 +1,12 @@
+{
+  "group": {
+    "Description": "Depth electrode name (contact label without its number)."
+  },
+  "soz": {
+    "Description": "Contact inside the seizure onset zone (NWB electrodes.is_inside_soz).",
+    "Levels": {
+      "yes": "inside SOZ",
+      "no": "outside SOZ"
+    }
+  }
+}

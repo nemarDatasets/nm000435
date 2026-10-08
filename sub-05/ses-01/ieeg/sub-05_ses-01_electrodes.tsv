@@ -1,0 +1,33 @@
+name	x	y	z	size	group	location	soz
+AHL1	-29.502284	-22.719835	-17.890184	n/a	AHL	Hipp, Left Hippocampus cHipp, caudal hippocampus	no
+AHL2	-34.255105	-19.480252	-19.045524	n/a	AHL	Hipp, Left Hippocampus cHipp, caudal hippocampus	no
+AHL3	-39.794603	-16.544812	-19.936438	n/a	AHL	unspecific	no
+AHL4	-44.055545	-14.007117	-21.077344	n/a	AHL	unspecific	no
+AHL5	-48.759679	-11.933364	-21.956361	n/a	AHL	unspecific	no
+AHL6	-53.121779	-8.694485	-23.020235	n/a	AHL	MTG, Left Middle Temporal Gyrus A21r, rostral area 21	no
+AHL7	-56.576337	-5.892939	-23.842046	n/a	AHL	MTG, Left Middle Temporal Gyrus A21r, rostral area 21	no
+AHL8	-59.919436	-2.742473	-24.917322	n/a	AHL	MTG, Left Middle Temporal Gyrus A21r, rostral area 21	no
+AHR1	34.274009	-14.861788	-19.964043	n/a	AHR	Hipp, Right Hippocampus cHipp, caudal hippocampus	no
+AHR2	38.993417	-12.743415	-18.388439	n/a	AHR	unspecific	no
+AHR3	43.974123	-11.341091	-17.639951	n/a	AHR	unspecific	no
+AHR4	48.54248	-9.242837	-16.293578	n/a	AHR	MTG, Right Middle Temporal Gyrus aSTS, anterior superior temporal sulcus	no
+AHR5	52.982311	-7.220096	-14.968229	n/a	AHR	STG, Right Superior Temporal Gyrus A22r, rostral area 22	no
+AHR6	57.838082	-6.326712	-13.421037	n/a	AHR	MTG, Right Middle Temporal Gyrus aSTS, anterior superior temporal sulcus	no
+AHR7	62.490909	-4.284962	-12.001448	n/a	AHR	MTG, Right Middle Temporal Gyrus aSTS, anterior superior temporal sulcus	no
+AHR8	66.534873	-2.281674	-11.038881	n/a	AHR	unspecific	no
+PHL1	-37.060515	-35.385928	-9.554305	n/a	PHL	unspecific	no
+PHL2	-41.644998	-32.358398	-9.637304	n/a	PHL	unspecific	no
+PHL3	-45.957646	-28.547237	-9.652895	n/a	PHL	unspecific	no
+PHL4	-50.362249	-25.152096	-9.74999	n/a	PHL	MTG, Left Middle Temporal Gyrus aSTS, anterior superior temporal sulcus	no
+PHL5	-55.196955	-22.64568	-9.828246	n/a	PHL	MTG, Left Middle Temporal Gyrus aSTS, anterior superior temporal sulcus	no
+PHL6	-59.815622	-19.295409	-9.809716	n/a	PHL	MTG, Left Middle Temporal Gyrus aSTS, anterior superior temporal sulcus	no
+PHL7	-63.651896	-15.888486	-9.496532	n/a	PHL	MTG, Left Middle Temporal Gyrus aSTS, anterior superior temporal sulcus	no
+PHL8	-67.653973	-12.029386	-9.76342	n/a	PHL	MTG, Left Middle Temporal Gyrus aSTS, anterior superior temporal sulcus	no
+PHR1	32.687676	-30.958353	-7.556361	n/a	PHR	Hipp, Right Hippocampus cHipp, caudal hippocampus	no
+PHR2	38.322469	-29.815225	-6.471374	n/a	PHR	unspecific	no
+PHR3	42.200665	-28.054853	-5.115217	n/a	PHR	unspecific	no
+PHR4	47.938584	-26.265824	-3.817599	n/a	PHR	STG, Right Superior Temporal Gyrus A22c, caudal area 22	no
+PHR5	52.982218	-24.216645	-2.503416	n/a	PHR	STG, Right Superior Temporal Gyrus A22c, caudal area 22	no
+PHR6	58.004623	-22.479761	-0.853249	n/a	PHR	STG, Right Superior Temporal Gyrus A22c, caudal area 22	no
+PHR7	62.295536	-20.828045	0.490112	n/a	PHR	STG, Right Superior Temporal Gyrus A22c, caudal area 22	no
+PHR8	66.966323	-19.165061	1.822971	n/a	PHR	STG, Right Superior Temporal Gyrus A22c, caudal area 22	no

@@ -1,0 +1,25 @@
+name	x	y	z	size	group	location	soz
+AHR1	25.320531	-14.581519	-11.892849	n/a	AHR	unspecific	no
+AHR2	27.897798	-14.252937	-11.848871	n/a	AHR	unspecific	no
+AHR3	34.469919	-13.975238	-10.746005	n/a	AHR	BG, Right Basal Ganglia vmPu, ventromedial putamen	no
+AHR4	39.385571	-12.737408	-9.702598	n/a	AHR	INS, Right Insular Gyrus vId/vIg, ventral dysgranular and granular insula	no
+AHR5	46.068561	-11.563836	-7.76567	n/a	AHR	unspecific	no
+AHR6	51.467259	-11.201512	-6.711655	n/a	AHR	STG, Right Superior Temporal Gyrus A22r, rostral area 22	no
+AHR7	55.78819	-10.791763	-5.414197	n/a	AHR	STG, Right Superior Temporal Gyrus A22r, rostral area 22	no
+AHR8	62.428195	-9.124613	-3.925089	n/a	AHR	STG, Right Superior Temporal Gyrus A22r, rostral area 22	no
+PHL1	-31.120821	-32.441536	-1.905228	n/a	PHL	unspecific	yes
+PHL2	-33.593073	-32.390859	-1.334389	n/a	PHL	unspecific	yes
+PHL3	-39.852512	-29.614274	-0.661437	n/a	PHL	unspecific	yes
+PHL4	-44.054887	-27.684019	-0.011776	n/a	PHL	STG, Left Superior Temporal Gyrus A22r, rostral area 22	yes
+PHL5	-49.700606	-25.609544	1.189944	n/a	PHL	STG, Left Superior Temporal Gyrus A22r, rostral area 22	yes
+PHL6	-54.371112	-23.981993	1.84169	n/a	PHL	STG, Left Superior Temporal Gyrus A22r, rostral area 22	yes
+PHL7	-60.007929	-21.367413	2.487227	n/a	PHL	STG, Left Superior Temporal Gyrus A22r, rostral area 22	yes
+PHL8	-64.787667	-19.055045	3.966269	n/a	PHL	 	yes
+PHR1	33.61689	-27.885886	-6.629273	n/a	PHR	Hipp, Right Hippocampus cHipp, caudal hippocampus	no
+PHR2	36.440077	-29.471719	-6.655216	n/a	PHR	unspecific	no
+PHR3	42.762295	-31.835668	-5.848727	n/a	PHR	unspecific	no
+PHR4	48.395315	-33.652144	-4.91295	n/a	PHR	MTG, Right Middle Temporal Gyrus aSTS, anterior superior temporal sulcus	no
+PHR5	54.462408	-35.950946	-4.61062	n/a	PHR	MTG, Right Middle Temporal Gyrus aSTS, anterior superior temporal sulcus	no
+PHR6	59.007715	-37.663004	-3.427853	n/a	PHR	MTG, Right Middle Temporal Gyrus aSTS, anterior superior temporal sulcus	no
+PHR7	65.345408	-39.428364	-2.890511	n/a	PHR	MTG, Right Middle Temporal Gyrus A21c, caudal area 21	no
+PHR8	71.174374	-40.671869	-1.527053	n/a	PHR	unspecific	no

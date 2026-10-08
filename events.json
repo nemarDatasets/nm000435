@@ -1,0 +1,23 @@
+{
+  "trial_type": {
+    "Description": "trial = one change-detection trial (intervals/trials); fixation/memory/retention/probe = trial periods (intervals/epochs tags); response = button press (BehavioralEvents.response)."
+  },
+  "set_size": {
+    "Description": "Number of coloured squares in the memory array (1, 2, 4 or 6)."
+  },
+  "solution": {
+    "Description": "Correct answer: same = test array identical to the memory array; different = one square changed colour."
+  },
+  "response": {
+    "Description": "Participant's answer (same/different)."
+  },
+  "source_table": {
+    "Description": "NWB table the row comes from."
+  },
+  "source_row_id": {
+    "Description": "Row id in that NWB table."
+  },
+  "sample": {
+    "Description": "Sample index of onset (0-based) at the recording's sampling frequency."
+  }
+}

@@ -1,0 +1,63 @@
+name	x	y	z	size	group	location	soz
+AHL1	-30.854391	-11.940737	-15.69945	n/a	AHL	Hipp, Left Hippocampus rHipp, rostral hippocampus	no
+AHL3	-39.633689	-13.433472	-16.321684	n/a	AHL	Hipp, Left Hippocampus cHipp, caudal hippocampus	no
+AHL4	-44.977777	-13.213299	-16.659982	n/a	AHL	unspecific	no
+AHL5	-50.703915	-14.028987	-16.59724	n/a	AHL	unspecific	no
+AHL6	-56.48112	-13.380589	-16.775114	n/a	AHL	MTG, Left Middle Temporal Gyrus A21r, rostral area 21	no
+AHL7	-62.243025	-13.809786	-16.599121	n/a	AHL	MTG, Left Middle Temporal Gyrus A21r, rostral area 21	no
+AHL8	-68.095152	-14.194601	-16.962418	n/a	AHL	MTG, Left Middle Temporal Gyrus A21c, caudal area 21	no
+AHR1	33.450569	-13.879347	-16.357149	n/a	AHR	Hipp, Right Hippocampus cHipp, caudal hippocampus	no
+AHR2	36.66149	-15.10409	-16.028142	n/a	AHR	FuG, Right Fusiform Gyrus A20rv, rostroventral area 20	no
+AHR3	42.208053	-16.277638	-15.340338	n/a	AHR	ITG, Right Inferior Temporal Gyrus A20r, rostral area 20	no
+AHR4	48.514318	-16.319705	-15.05969	n/a	AHR	unspecific	no
+AHR5	53.527796	-19.028223	-14.898285	n/a	AHR	ITG, Right Inferior Temporal Gyrus A20il, intermediate lateral area 20	no
+AHR6	59.394597	-20.299032	-14.481636	n/a	AHR	ITG, Right Inferior Temporal Gyrus A20il, intermediate lateral area 20	no
+AHR7	64.77136	-21.664571	-14.092561	n/a	AHR	MTG, Right Middle Temporal Gyrus A21c, caudal area 21	no
+AHR8	70.571737	-22.396201	-14.308792	n/a	AHR	unspecific	no
+AL1	-23.674695	-3.999533	-20.975655	n/a	AL	Amyg, Left Amygdala mAmyg, medial amygdala	no
+AL2	-25.754101	-3.032244	-20.726255	n/a	AL	Amyg, Left Amygdala mAmyg, medial amygdala	no
+AL3	-31.28131	0.335119	-21.493282	n/a	AL	unspecific	no
+AL4	-36.091855	2.577076	-21.718769	n/a	AL	STG, Left Superior Temporal Gyrus A38m, medial area 38	no
+AL5	-41.290517	4.863843	-21.992532	n/a	AL	unspecific	no
+AL6	-46.989763	8.173541	-22.293675	n/a	AL	MTG, Left Middle Temporal Gyrus A21r, rostral area 21	no
+AL7	-51.095926	9.418542	-22.601714	n/a	AL	MTG, Left Middle Temporal Gyrus A21r, rostral area 21	no
+AL8	-57.178467	12.205341	-22.890251	n/a	AL	MTG, Left Middle Temporal Gyrus A21r, rostral area 21	no
+AR1	22.851219	-6.226332	-17.548297	n/a	AR	Hipp, Right Hippocampus rHipp, rostral hippocampus	no
+AR2	25.961469	-4.189145	-18.146629	n/a	AR	Amyg, Right Amygdala lAmyg, lateral amygdala	no
+AR3	30.174823	-1.171841	-19.740029	n/a	AR	unspecific	no
+AR4	34.258137	1.624125	-20.771726	n/a	AR	unspecific	no
+AR5	39.145828	4.1724	-22.587876	n/a	AR	unspecific	no
+AR6	45.322172	8.164778	-24.284267	n/a	AR	MTG, Right Middle Temporal Gyrus A21r, rostral area 21	no
+AR7	50.086974	10.418866	-25.679348	n/a	AR	MTG, Right Middle Temporal Gyrus A21r, rostral area 21	no
+AR8	54.365811	13.210318	-27.648551	n/a	AR	unspecific	no
+ECL1	-26.191804	-7.611772	-28.751791	n/a	ECL	PhG, Left Parahippocampal Gyrus A35-36r, rostral area 35-36	no
+ECL2	-30.166441	-7.60771	-28.18966	n/a	ECL	PhG, Left Parahippocampal Gyrus A35-36r, rostral area 35-36	no
+ECL3	-36.027655	-7.247251	-26.512182	n/a	ECL	unspecific	no
+ECL4	-41.795155	-6.436173	-24.719014	n/a	ECL	unspecific	no
+ECL5	-46.635858	-5.202129	-23.004184	n/a	ECL	unspecific	no
+ECL6	-52.325	-5.587398	-22.260383	n/a	ECL	MTG, Left Middle Temporal Gyrus A21r, rostral area 21	no
+ECL7	-57.102666	-4.810822	-20.617939	n/a	ECL	MTG, Left Middle Temporal Gyrus A21r, rostral area 21	no
+ECL8	-62.909816	-3.873848	-19.654445	n/a	ECL	MTG, Left Middle Temporal Gyrus A21r, rostral area 21	no
+ECR1	25.214008	-8.053177	-29.274314	n/a	ECR	PhG, Right Parahippocampal Gyrus A35-36r, rostral area 35-36	yes
+ECR2	27.871026	-9.268661	-28.790656	n/a	ECR	PhG, Right Parahippocampal Gyrus A35-36r, rostral area 35-36	yes
+ECR3	33.920955	-9.029442	-26.567065	n/a	ECR	FuG, Right Fusiform Gyrus A20rv, rostroventral area 20	yes
+ECR4	39.384534	-8.871592	-24.512727	n/a	ECR	FuG, Right Fusiform Gyrus A20rv, rostroventral area 20	yes
+ECR5	44.792635	-8.770758	-22.542212	n/a	ECR	unspecific	yes
+ECR6	50.099486	-7.3896	-20.333858	n/a	ECR	ITG, Right Inferior Temporal Gyrus A20il, intermediate lateral area 20	yes
+ECR7	55.863272	-7.71293	-19.075481	n/a	ECR	ITG, Right Inferior Temporal Gyrus A20il, intermediate lateral area 20	yes
+ECR8	61.179384	-8.232511	-17.460553	n/a	ECR	MTG, Right Middle Temporal Gyrus A21r, rostral area 21	yes
+PHL1	-35.004734	-29.208494	-7.320542	n/a	PHL	Hipp, Left Hippocampus cHipp, caudal hippocampus	no
+PHL2	-38.587035	-28.121508	-7.021552	n/a	PHL	unspecific	no
+PHL3	-45.127693	-27.069952	-5.997586	n/a	PHL	unspecific	no
+PHL4	-50.540012	-25.825194	-5.929329	n/a	PHL	MTG, Left Middle Temporal Gyrus aSTS, anterior superior temporal sulcus	no
+PHL5	-56.385743	-24.264745	-5.103589	n/a	PHL	MTG, Left Middle Temporal Gyrus aSTS, anterior superior temporal sulcus	no
+PHL6	-61.736991	-22.739122	-4.318842	n/a	PHL	MTG, Left Middle Temporal Gyrus aSTS, anterior superior temporal sulcus	no
+PHL7	-67.581214	-21.106564	-4.156026	n/a	PHL	MTG, Left Middle Temporal Gyrus aSTS, anterior superior temporal sulcus	no
+PHL8	-72.33616	-21.604762	-3.950693	n/a	PHL	unspecific	no
+PHR1	36.251899	-25.867749	-7.34432	n/a	PHR	Hipp, Right Hippocampus cHipp, caudal hippocampus	no
+PHR2	38.960865	-25.122686	-7.033869	n/a	PHR	Hipp, Right Hippocampus cHipp, caudal hippocampus	no
+PHR3	45.039065	-24.238031	-5.952015	n/a	PHR	unspecific	no
+PHR4	50.458632	-23.744984	-5.579649	n/a	PHR	MTG, Right Middle Temporal Gyrus aSTS, anterior superior temporal sulcus	no
+PHR5	56.225201	-22.466473	-4.472997	n/a	PHR	MTG, Right Middle Temporal Gyrus aSTS, anterior superior temporal sulcus	no
+PHR6	62.387015	-21.69641	-3.548627	n/a	PHR	MTG, Right Middle Temporal Gyrus aSTS, anterior superior temporal sulcus	no
+PHR7	68.005715	-20.870349	-3.136432	n/a	PHR	MTG, Right Middle Temporal Gyrus aSTS, anterior superior temporal sulcus	no

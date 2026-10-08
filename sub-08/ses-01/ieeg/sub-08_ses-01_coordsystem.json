@@ -1,0 +1,5 @@
+{
+  "iEEGCoordinateSystem": "Other",
+  "iEEGCoordinateUnits": "mm",
+  "iEEGCoordinateSystemDescription": "MNI space coordinates of the authors (template not specified in the release). The NWB stores them in the NWB axis convention (x=-MNI_y, y=-MNI_z, z=MNI_x, per the authors' converter usz-neuro-conversion); here they are converted back to x=MNI_x (right), y=MNI_y (anterior), z=MNI_z (superior)."
+}

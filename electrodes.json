@@ -1,0 +1,15 @@
+{
+  "group": {
+    "Description": "Depth electrode name."
+  },
+  "location": {
+    "Description": "Anatomical label given by the authors (Brainnetome atlas: gyrus, subregion)."
+  },
+  "soz": {
+    "Description": "Contact inside the seizure onset zone.",
+    "Levels": {
+      "yes": "inside SOZ",
+      "no": "outside SOZ"
+    }
+  }
+}

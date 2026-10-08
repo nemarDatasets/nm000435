@@ -1,0 +1,18 @@
+{
+  "source_file": {
+    "Description": "NWB file in sourcedata/ (date in the name masked to day 01) that the recording was converted from."
+  },
+  "recording_month": {
+    "Description": "Year and month of the session (NWB session_start_time; day withheld)."
+  },
+  "source_rate_attribute": {
+    "Description": "The 'rate' attribute stored in the NWB (n/a when explicit timestamps are stored); often wrong, see README."
+  },
+  "sampling_frequency_used": {
+    "Description": "Sampling frequency used for this recording (evidence in README).",
+    "Units": "Hz"
+  },
+  "float32_max_abs_err_uV": {
+    "Description": "Largest float32 rounding error (microvolts)."
+  }
+}

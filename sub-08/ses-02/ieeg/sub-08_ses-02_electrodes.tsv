@@ -1,0 +1,65 @@
+name	x	y	z	size	group	location	soz
+AHL1	-27.636604	-16.013358	-25.464915	n/a	AHL	unspecific	yes
+AHL2	-29.838949	-15.939038	-25.529525	n/a	AHL	Hipp, Left Hippocampus rHipp, rostral hippocampus	yes
+AHL3	-36.062667	-15.123586	-26.51002	n/a	AHL	FuG, Left Fusiform Gyrus A20rv, rostroventral area 20	no
+AHL4	-42.609612	-13.888876	-27.352306	n/a	AHL	ITG, Left Inferior Temporal Gyrus A20iv, intermediate ventral area 20	no
+AHL5	-47.706699	-13.700478	-28.328917	n/a	AHL	ITG, Left Inferior Temporal Gyrus A20il, intermediate lateral area 20	no
+AHL6	-54.185621	-12.59984	-29.085611	n/a	AHL	ITG, Left Inferior Temporal Gyrus A20il, intermediate lateral area 20	no
+AHL7	-60.270492	-12.008527	-29.932945	n/a	AHL	ITG, Left Inferior Temporal Gyrus A20il, intermediate lateral area 20	no
+AHL8	-67.633168	-12.428422	-31.004667	n/a	AHL	unspecific	no
+AHR1	29.115134	-17.056795	-25.628999	n/a	AHR	Hipp, Right Hippocampus cHipp, caudal hippocampus	no
+AHR2	31.825875	-16.711104	-26.691556	n/a	AHR	PhG, Right Parahippocampal Gyrus TL, area TL (lateral PPHC, posterior parahippocampal gyrus)	no
+AHR3	38.964683	-16.654871	-28.983184	n/a	AHR	FuG, Right Fusiform Gyrus A20rv, rostroventral area 20	no
+AHR4	43.420963	-16.19872	-31.205234	n/a	AHR	ITG, Right Inferior Temporal Gyrus A20iv, intermediate ventral area 20	no
+AHR5	48.821905	-15.848198	-32.688224	n/a	AHR	ITG, Right Inferior Temporal Gyrus A20cv, caudoventral of area 20	no
+AHR6	54.692816	-15.918379	-34.936807	n/a	AHR	ITG, Right Inferior Temporal Gyrus A20cv, caudoventral of area 20	no
+AHR7	60.611465	-15.517164	-37.370886	n/a	AHR	unspecific	no
+AHR8	66.620218	-16.1612	-39.714547	n/a	AHR	unspecific	no
+AL1	-16.856377	-7.865223	-20.89024	n/a	AL	Hipp, Left Hippocampus rHipp, rostral hippocampus	no
+AL2	-21.665452	-7.089776	-22.013691	n/a	AL	Hipp, Left Hippocampus rHipp, rostral hippocampus	no
+AL3	-26.895099	-6.169476	-23.487313	n/a	AL	Hipp, Left Hippocampus rHipp, rostral hippocampus	no
+AL4	-32.425932	-3.74768	-25.400011	n/a	AL	Amyg, Left Amygdala lAmyg, lateral amygdala	no
+AL5	-37.417502	-2.913511	-26.625113	n/a	AL	unspecific	no
+AL6	-43.318938	-1.126695	-27.753857	n/a	AL	unspecific	no
+AL7	-48.67733	0.597839	-30.03611	n/a	AL	MTG, Left Middle Temporal Gyrus A21r, rostral area 21	no
+AL8	-55.598522	1.311166	-31.029984	n/a	AL	MTG, Left Middle Temporal Gyrus A21r, rostral area 21	no
+AR1	26.13755	-6.898648	-22.220753	n/a	AR	Hipp, Right Hippocampus rHipp, rostral hippocampus	no
+AR2	29.301899	-6.028979	-23.438604	n/a	AR	Hipp, Right Hippocampus rHipp, rostral hippocampus	no
+AR3	33.770019	-5.021436	-26.091512	n/a	AR	unspecific	no
+AR4	39.039517	-1.995787	-29.527396	n/a	AR	unspecific	no
+AR5	44.227673	-0.521966	-32.037247	n/a	AR	MTG, Right Middle Temporal Gyrus A21r, rostral area 21	no
+AR6	48.336695	2.587557	-33.693404	n/a	AR	MTG, Right Middle Temporal Gyrus A21r, rostral area 21	no
+AR7	53.934371	4.92164	-37.090556	n/a	AR	MTG, Right Middle Temporal Gyrus A21r, rostral area 21	no
+AR8	58.047244	7.127708	-39.643568	n/a	AR	unspecific	no
+ECL1	-22.792717	-4.784999	-39.596255	n/a	ECL	PhG, Left Parahippocampal Gyrus TI, area TI (temporal agranular insular cortex)	no
+ECL2	-25.588503	-4.2067	-39.384194	n/a	ECL	FuG, Left Fusiform Gyrus A20rv, rostroventral area 20	no
+ECL3	-32.293871	-3.51351	-37.782489	n/a	ECL	FuG, Left Fusiform Gyrus A20rv, rostroventral area 20	no
+ECL4	-38.407362	-3.879568	-36.236024	n/a	ECL	ITG, Left Inferior Temporal Gyrus A20r, rostral area 20	no
+ECL5	-43.92668	-3.855696	-34.584072	n/a	ECL	ITG, Left Inferior Temporal Gyrus A20il, intermediate lateral area 20	no
+ECL6	-49.888373	-3.335106	-33.651034	n/a	ECL	ITG, Left Inferior Temporal Gyrus A20il, intermediate lateral area 20	no
+ECL7	-55.513215	-3.896427	-32.192018	n/a	ECL	MTG, Left Middle Temporal Gyrus A21r, rostral area 21	no
+ECL8	-62.02227	-2.474898	-31.474343	n/a	ECL	unspecific	no
+ECR1	26.020268	-4.266901	-41.6662	n/a	ECR	FuG, Right Fusiform Gyrus A20rv, rostroventral area 20	no
+ECR2	28.682581	-5.110022	-41.153816	n/a	ECR	FuG, Right Fusiform Gyrus A20rv, rostroventral area 20	no
+ECR3	34.507253	-6.145518	-37.166752	n/a	ECR	FuG, Right Fusiform Gyrus A20rv, rostroventral area 20	no
+ECR4	40.271736	-6.207434	-34.282449	n/a	ECR	unspecific	no
+ECR5	44.641109	-7.197606	-32.55294	n/a	ECR	ITG, Right Inferior Temporal Gyrus A20il, intermediate lateral area 20	no
+ECR6	50.968932	-7.710838	-30.670066	n/a	ECR	ITG, Right Inferior Temporal Gyrus A20il, intermediate lateral area 20	no
+ECR7	55.850323	-8.39326	-28.214004	n/a	ECR	MTG, Right Middle Temporal Gyrus A21r, rostral area 21	no
+ECR8	62.181289	-8.525528	-26.433265	n/a	ECR	MTG, Right Middle Temporal Gyrus A21r, rostral area 21	no
+PCL1	-26.260026	-26.188682	-16.099587	n/a	PCL	Hipp, Left Hippocampus cHipp, caudal hippocampus	no
+PCL2	-30.519747	-26.580639	-15.915143	n/a	PCL	Hipp, Left Hippocampus cHipp, caudal hippocampus	no
+PCL3	-36.290482	-26.125117	-14.56349	n/a	PCL	Hipp, Left Hippocampus cHipp, caudal hippocampus	no
+PCL4	-42.403498	-27.530261	-14.297061	n/a	PCL	unspecific	no
+PCL5	-47.98006	-27.505274	-13.926418	n/a	PCL	unspecific	no
+PCL6	-54.388836	-27.967886	-13.58787	n/a	PCL	MTG, Left Middle Temporal Gyrus A21c, caudal area 21	no
+PCL7	-60.247031	-28.539305	-12.440986	n/a	PCL	MTG, Left Middle Temporal Gyrus A21c, caudal area 21	no
+PCL8	-66.136313	-29.963818	-12.253519	n/a	PCL	MTG, Left Middle Temporal Gyrus A21c, caudal area 21	no
+PHR1	23.659938	-20.492523	-26.13964	n/a	PHR	unspecific	no
+PHR2	26.994779	-22.316257	-24.254983	n/a	PHR	PhG, Right Parahippocampal Gyrus A35/36c, caudal area 35/36	no
+PHR3	31.61259	-23.924634	-21.804394	n/a	PHR	PhG, Right Parahippocampal Gyrus TL, area TL (lateral PPHC, posterior parahippocampal gyrus)	no
+PHR4	37.821792	-26.126405	-19.768648	n/a	PHR	FuG, Right Fusiform Gyrus A20rv, rostroventral area 20	no
+PHR5	42.494314	-29.040037	-16.585697	n/a	PHR	ITG, Right Inferior Temporal Gyrus A20iv, intermediate ventral area 20	no
+PHR6	48.07425	-31.318371	-14.672985	n/a	PHR	unspecific	no
+PHR7	53.037004	-33.685578	-12.167914	n/a	PHR	ITG, Right Inferior Temporal Gyrus A20cl, caudolateral of area 20	no
+PHR8	58.340366	-36.499562	-9.669701	n/a	PHR	MTG, Right Middle Temporal Gyrus A21c, caudal area 21	no

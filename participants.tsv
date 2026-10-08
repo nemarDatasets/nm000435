@@ -1,0 +1,12 @@
+participant_id	age	sex	handedness	species	pathology	implanted_electrodes	soz_electrodes	same_participant_in
+sub-01	31	M	right	homo sapiens	Hippocampal sclerosis	AHL,AHR,AL,AR,ECL,ECR,PHL,PHR	AHL,PHL,ECL,AL	fear video (GIN Human_Amygdala_MUA_sEEG_FearVideo, OpenNeuro ds003374, DANDI 000576) participant 1; verbal WM (GIN Human_MTL_units_scalp_EEG_and_iEEG_verbal_WM) participant 6 = NEMAR nm000363 sub-06 = OpenNeuro ds004752 sub-06
+sub-03	56	F	right	homo sapiens	Hippocampal sclerosis	AHL,AHR,AL,AR,ECL,ECR,PHL,PHR	ECR	verbal WM (GIN Human_MTL_units_scalp_EEG_and_iEEG_verbal_WM) participant 8 = NEMAR nm000363 sub-08 = OpenNeuro ds004752 sub-08
+sub-04	28	M	right	homo sapiens	Brain contusion	AHL,AHR,AL,AR,ECL,ECR,PHL,PHR	AHL,AHR,PHL,PHR	verbal WM (GIN Human_MTL_units_scalp_EEG_and_iEEG_verbal_WM) participant 4 = NEMAR nm000363 sub-04 = OpenNeuro ds004752 sub-04
+sub-05	20	F	right	homo sapiens	FCD	AHL,AHR,PHL,PHR	n/a	n/a
+sub-06	35	M	right	homo sapiens	Unknown	AHL,AHR,AL,AR,ECL,ECR,PHR	AHL	n/a
+sub-07	19	M	right	homo sapiens	Unknown	AHR,PHL,PHR	PHL	n/a
+sub-08	51	F	right	homo sapiens	Hippocampal sclerosis	AHL,AHR,AL,AR,ECL,ECR,PHL,PHR	AHL,PHL	n/a
+sub-09	18	F	right	homo sapiens	Hippocampal sclerosis	AHL,AHR,AL,ECL,PHL	AHL,PHL	fear video (GIN Human_Amygdala_MUA_sEEG_FearVideo, OpenNeuro ds003374, DANDI 000576) participant 3; verbal WM (GIN Human_MTL_units_scalp_EEG_and_iEEG_verbal_WM) participant 3 = NEMAR nm000363 sub-03 = OpenNeuro ds004752 sub-03
+sub-10	47	M	right	homo sapiens	Hippocampal sclerosis	AHL,AHR,AL,AR,ECL,ECR,PHL,PHR	AHR,PHR	fear video (GIN Human_Amygdala_MUA_sEEG_FearVideo, OpenNeuro ds003374, DANDI 000576) participant 2; verbal WM (GIN Human_MTL_units_scalp_EEG_and_iEEG_verbal_WM) participant 7 = NEMAR nm000363 sub-07 = OpenNeuro ds004752 sub-07
+sub-12	24	F	right	homo sapiens	Xanthoastrocytoma WHO II	AHL,AL,LR,ECL,PHL,PHR	AHR	fear video (GIN Human_Amygdala_MUA_sEEG_FearVideo, OpenNeuro ds003374, DANDI 000576) participant 8; verbal WM (GIN Human_MTL_units_scalp_EEG_and_iEEG_verbal_WM) participant 1 = NEMAR nm000363 sub-01 = OpenNeuro ds004752 sub-01
+sub-13	39	M	right	homo sapiens	Gliosis	AHL,AHR,AL,AR,ECL,ECR,PHL,PHR	AHR,PHR	fear video (GIN Human_Amygdala_MUA_sEEG_FearVideo, OpenNeuro ds003374, DANDI 000576) participant 7; verbal WM (GIN Human_MTL_units_scalp_EEG_and_iEEG_verbal_WM) participant 2 = NEMAR nm000363 sub-02 = OpenNeuro ds004752 sub-02

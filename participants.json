@@ -1,0 +1,34 @@
+{
+  "participant_id": {
+    "Description": "DANDI 000575 subject label."
+  },
+  "age": {
+    "Description": "Age in years (NWB subject.age).",
+    "Units": "year"
+  },
+  "sex": {
+    "Description": "NWB subject.sex.",
+    "Levels": {
+      "M": "male",
+      "F": "female"
+    }
+  },
+  "handedness": {
+    "Description": "From NWB subject.description."
+  },
+  "species": {
+    "Description": "Species."
+  },
+  "pathology": {
+    "Description": "From NWB subject.description."
+  },
+  "implanted_electrodes": {
+    "Description": "Depth electrodes implanted (NWB subject.description)."
+  },
+  "soz_electrodes": {
+    "Description": "Electrodes in the seizure onset zone (NWB subject.description); n/a when not given."
+  },
+  "same_participant_in": {
+    "Description": "Other public releases that contain the same person, according to the authors' own conversion metadata (usz-neuro-conversion, in/metadata/participants.csv; matched there by the hospital patient number, which is not copied here). Different task and recordings: no data overlap."
+  }
+}

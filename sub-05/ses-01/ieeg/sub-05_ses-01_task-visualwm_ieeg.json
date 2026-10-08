@@ -1,0 +1,36 @@
+{
+  "TaskName": "visualwm",
+  "TaskDescription": "Visual working memory change-detection task (DANDI description): arrays of coloured squares (set size 1, 2, 4 or 6) were memorised. Fixation (red dot 0.4 s, black dot 0.4-0.5 s jittered), memory array (encoding, 0.8 s), delay (retention, 0.9 s), test array (probe, 2 s), inter-trial interval 1.3-2.3 s. The participant pressed 'Same' or 'Different'. 192 trials per session.",
+  "InstitutionName": "University Hospital Zurich (Universitätsspital Zürich)",
+  "InstitutionAddress": "8091 Zurich, Switzerland",
+  "Manufacturer": "Neuralynx",
+  "ManufacturersModelName": "ATLAS Neurophysiology System",
+  "PowerLineFrequency": 50,
+  "HardwareFilters": {
+    "Neuralynx passband": {
+      "Low cutoff (Hz)": 1,
+      "High cutoff (Hz)": 8000
+    }
+  },
+  "iEEGReference": "common intracranial reference (NWB electrodes.reference: 'Common intracranial reference')",
+  "iEEGPlacementScheme": "clinically indicated depth electrodes in the medial temporal lobe (amygdala, hippocampus, entorhinal cortex, parahippocampal cortex)",
+  "EpochLength": 0,
+  "SamplingFrequency": 4000.0,
+  "SEEGChannelCount": 32,
+  "ECOGChannelCount": 0,
+  "EEGChannelCount": 0,
+  "EOGChannelCount": 0,
+  "ECGChannelCount": 0,
+  "EMGChannelCount": 0,
+  "MiscChannelCount": 0,
+  "TriggerChannelCount": 0,
+  "RecordingDuration": 1506.112,
+  "RecordingType": "continuous",
+  "SoftwareFilters": {
+    "Downsampling": {
+      "Description": "downsampled by the authors from the 32 kHz Neuralynx recording to 4 kHz; anti-aliasing filter not documented"
+    }
+  },
+  "SoftwareVersions": "conversion: b3w4_boran_bids.py (chunked BrainVision writer)",
+  "SourceRateAttribute": 32000.0
+}

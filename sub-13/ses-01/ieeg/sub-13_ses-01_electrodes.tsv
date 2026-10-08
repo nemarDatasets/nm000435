@@ -1,0 +1,49 @@
+name	x	y	z	size	group	location	soz
+AHL1	-34.215982	-11.602885	-23.538356	n/a	AHL	Hipp, Left Hippocampus cHipp, caudal hippocampus	no
+AHL2	-39.794437	-11.86519	-22.245576	n/a	AHL	FuG, Left Fusiform Gyrus A20rv, rostroventral area 20	no
+AHL3	-44.791117	-11.738273	-21.353693	n/a	AHL	unspecific	no
+AHL4	-49.746072	-11.640258	-20.496794	n/a	AHL	unspecific	no
+AHL5	-54.615767	-11.590788	-19.547668	n/a	AHL	unspecific	no
+AHL6	-59.399073	-10.961803	-18.759605	n/a	AHL	MTG, Left Middle Temporal Gyrus aSTS, anterior superior temporal sulcus	no
+AHL7	-64.679572	-9.516405	-18.121715	n/a	AHL	MTG, Left Middle Temporal Gyrus aSTS, anterior superior temporal sulcus	no
+AHL8	-68.821551	-9.492141	-17.386087	n/a	AHL	MTG, Left Middle Temporal Gyrus A21c, caudal area 21	no
+AHR1	34.166971	-12.254697	-30.134023	n/a	AHR	FuG, Right Fusiform Gyrus A20rv, rostroventral area 20	yes
+AHR2	38.270387	-9.368373	-29.361029	n/a	AHR	FuG, Right Fusiform Gyrus A20rv, rostroventral area 20	yes
+AHR3	43.241648	-7.829103	-27.953774	n/a	AHR	unspecific	yes
+AHR4	48.551118	-6.783204	-26.701602	n/a	AHR	MTG, Right Middle Temporal Gyrus A21r, rostral area 21	yes
+AHR5	52.539794	-5.428792	-25.54431	n/a	AHR	MTG, Right Middle Temporal Gyrus A21r, rostral area 21	yes
+AHR6	58.017528	-3.094989	-24.445788	n/a	AHR	MTG, Right Middle Temporal Gyrus A21r, rostral area 21	yes
+AHR7	62.383553	-1.334082	-23.701176	n/a	AHR	MTG, Right Middle Temporal Gyrus A21r, rostral area 21	yes
+AHR8	66.979369	-0.549033	-22.42625	n/a	AHR	unspecific	yes
+AL1	-30.146744	-2.565175	-18.819049	n/a	AL	Amyg, Left Amygdala lAmyg, lateral amygdala	no
+AL2	-35.509326	-2.948806	-19.985922	n/a	AL	unspecific	no
+AL3	-39.620748	-3.367535	-21.327196	n/a	AL	unspecific	no
+AL4	-44.88334	-3.285562	-22.72848	n/a	AL	unspecific	no
+AL5	-49.408762	-4.196084	-23.795226	n/a	AL	unspecific	no
+AL6	-54.892433	-3.560009	-25.049032	n/a	AL	MTG, Left Middle Temporal Gyrus A21r, rostral area 21	no
+AL7	-59.910764	-4.001898	-26.086619	n/a	AL	MTG, Left Middle Temporal Gyrus A21r, rostral area 21	no
+AL8	-64.363093	-3.542967	-27.464282	n/a	AL	MTG, Left Middle Temporal Gyrus A21r, rostral area 21	no
+AR1	23.866799	-1.799957	-21.129854	n/a	AR	Amyg, Right Amygdala mAmyg, medial amygdala	no
+AR2	28.435692	-1.342119	-23.415887	n/a	AR	Amyg, Right Amygdala lAmyg, lateral amygdala	no
+AR3	33.298167	-0.047821	-25.373562	n/a	AR	unspecific	no
+AR4	37.34737	1.150292	-27.503785	n/a	AR	unspecific	no
+AR5	42.439262	1.62859	-30.050074	n/a	AR	unspecific	no
+AR6	47.236116	3.301279	-32.154738	n/a	AR	MTG, Right Middle Temporal Gyrus A21r, rostral area 21	no
+AR7	51.18363	3.379762	-33.799427	n/a	AR	MTG, Right Middle Temporal Gyrus A21r, rostral area 21	no
+AR8	56.398757	4.07532	-36.000495	n/a	AR	MTG, Right Middle Temporal Gyrus A21r, rostral area 21	no
+ECL1	-27.857537	-0.257136	-32.40432	n/a	ECL	PhG, Left Parahippocampal Gyrus A35-36r, rostral area 35-36	no
+ECL2	-32.605249	-0.943782	-30.138402	n/a	ECL	unspecific	no
+ECL3	-37.584181	-0.227774	-29.043037	n/a	ECL	unspecific	no
+ECL4	-42.544849	0.927513	-27.997462	n/a	ECL	unspecific	no
+ECL5	-48.628645	2.515792	-26.979379	n/a	ECL	MTG, Left Middle Temporal Gyrus A21r, rostral area 21	no
+ECL6	-53.849071	2.651288	-25.749342	n/a	ECL	MTG, Left Middle Temporal Gyrus A21r, rostral area 21	no
+ECL7	-58.379265	2.315295	-24.921693	n/a	ECL	MTG, Left Middle Temporal Gyrus A21r, rostral area 21	no
+ECL8	-62.548877	3.260021	-24.455994	n/a	ECL	MTG, Left Middle Temporal Gyrus A21r, rostral area 21	no
+ECR1	26.923157	-2.629252	-35.004268	n/a	ECR	PhG, Right Parahippocampal Gyrus A35-36r, rostral area 35-36	no
+ECR2	31.951498	-1.468927	-33.748994	n/a	ECR	PhG, Right Parahippocampal Gyrus A35-36r, rostral area 35-36	no
+ECR3	36.556686	0.537651	-32.758869	n/a	ECR	unspecific	no
+ECR4	41.847786	2.758969	-31.182201	n/a	ECR	unspecific	no
+ECR5	46.756166	4.117311	-31.659436	n/a	ECR	unspecific	no
+ECR6	49.858904	7.114663	-30.016309	n/a	ECR	MTG, Right Middle Temporal Gyrus A21r, rostral area 21	no
+ECR7	55.971577	7.073383	-29.585581	n/a	ECR	MTG, Right Middle Temporal Gyrus A21r, rostral area 21	no
+ECR8	60.152639	8.294122	-28.906153	n/a	ECR	unspecific	no

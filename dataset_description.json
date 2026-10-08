@@ -1,0 +1,46 @@
+{
+  "Name": "Human medial temporal lobe iEEG during a visual working memory task (Boran et al.; DANDI 000575)",
+  "BIDSVersion": "1.10.0",
+  "DatasetType": "derivative",
+  "License": "CC-BY-4.0",
+  "Authors": [
+    "Ece Boran",
+    "Peter Hilfiker",
+    "Lennart Stieglitz",
+    "Jan Hohenheim",
+    "Peter Klaver",
+    "Johannes Sarnthein"
+  ],
+  "HowToAcknowledge": "Please cite Boran E, Hilfiker P, Stieglitz L, Sarnthein J, Klaver P (2022) Persistent neuronal firing in the medial temporal lobe supports performance and workload of visual working memory in humans. NeuroImage 254:119123, doi:10.1016/j.neuroimage.2022.119123, and the data release: Boran E, Hilfiker P, Stieglitz L, Hohenheim J, Klaver P, Sarnthein J (2023) Dataset of human medial temporal lobe neurons during a visual working memory task (Version 0.231010.1811), DANDI archive, doi:10.48324/dandi.000575/0.231010.1811.",
+  "Funding": [
+    "Swiss National Science Foundation 204651",
+    "The Kavli Foundation 2586"
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1016/j.neuroimage.2022.119123",
+    "https://doi.org/10.48324/dandi.000575/0.231010.1811",
+    "https://gin.g-node.org/USZ_NCH/Human_MTL_units_visual_WM",
+    "https://github.com/janhohenheim/usz-neuro-conversion",
+    "https://github.com/janhohenheim/nwb-example",
+    "https://www.neurobs.com/ex_files/expt_view?id=285"
+  ],
+  "GeneratedBy": [
+    {
+      "Name": "Authors' export (USZ, usz-neuro-conversion)",
+      "Description": "Neuralynx ATLAS recordings (32 kHz) exported by the authors through FieldTrip MATLAB files to NWB; for 10 of 13 recordings the exported series is at 4 kHz (downsampled by the authors; method not documented).",
+      "CodeURL": "https://github.com/janhohenheim/usz-neuro-conversion"
+    },
+    {
+      "Name": "b3w4_boran_bids.py",
+      "Description": "NWB -> BIDS-iEEG for NEMAR (batch 3): sampling rate corrected from evidence, values written as float32 microvolts, no filtering/resampling/re-referencing; events from the NWB trial, epoch and response tables; MNI coordinates restored from the NWB axis convention. v2: sub-12 exact duplicate columns (31 of 63, identical over the full series) written once.",
+      "Version": "2026-10-08"
+    }
+  ],
+  "SourceDatasets": [
+    {
+      "DOI": "doi:10.48324/dandi.000575/0.231010.1811",
+      "URL": "https://dandiarchive.org/dandiset/000575/0.231010.1811",
+      "Version": "0.231010.1811"
+    }
+  ]
+}

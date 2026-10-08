@@ -1,0 +1,204 @@
+{
+  "source": "DANDI:000575/0.231010.1811 (https://doi.org/10.48324/dandi.000575/0.231010.1811), CC-BY-4.0",
+  "copy": "all 18 NWB assets; privacy masking only: the day of session_start_time and timestamps_reference_time is set to 01 (year, month and time of day kept), and the same masking is applied to the date in the file name. All data, units, trials and other metadata are unchanged. dandi_sha256_original is the digest of the unmodified DANDI asset.",
+  "files": [
+    {
+      "path": "sub-01/sub-01_ses-20140801T193800_behavior+ecephys.nwb",
+      "dandi_asset_id": "5504ab64-d6ea-4580-9dc1-cd898c56676b",
+      "dandi_sha256_original": "8cfd00a09597d7aafcdf8d2186fe936beca520ab55c795dae0202a5c4fde020f",
+      "sha256": "708588bbccd44f105d474c5f9941d23a35005397b3e1bfa874b413303380d7ec",
+      "size": 3683465460,
+      "changes": {
+        "session_start_time": "day set to 01",
+        "timestamps_reference_time": "day set to 01"
+      }
+    },
+    {
+      "path": "sub-02/sub-02_ses-20171001T152100_behavior+ecephys.nwb",
+      "dandi_asset_id": "e96a31c3-b4c2-434b-979e-8d7b56f0b635",
+      "dandi_sha256_original": "f3c0c5405f28e63d779b76b6f42162986f6963607f4d8afe6b6a3e36e15efca0",
+      "sha256": "74b0dc705d4dba364f540d17ea6c0c8745868f9a254bf309fab3577fcfc20839",
+      "size": 819080,
+      "changes": {
+        "session_start_time": "day set to 01",
+        "timestamps_reference_time": "day set to 01"
+      }
+    },
+    {
+      "path": "sub-03/sub-03_ses-20170101T105000_behavior+ecephys.nwb",
+      "dandi_asset_id": "b7cb6018-a1cc-4aad-804b-de93871818cb",
+      "dandi_sha256_original": "66920a3443a41c5a9e05909d33f1193d6928a95a2ff4db5480003627148e8660",
+      "sha256": "b1e74b58adb2ca10f809515c59741c7ddfb6d6a82731de608a67ca29946cfa09",
+      "size": 2631181707,
+      "changes": {
+        "session_start_time": "day set to 01",
+        "timestamps_reference_time": "day set to 01"
+      }
+    },
+    {
+      "path": "sub-03/sub-03_ses-20170101T111800_behavior+ecephys.nwb",
+      "dandi_asset_id": "4b3976db-8514-4e84-8c46-28ae0589cbd0",
+      "dandi_sha256_original": "dd9add20c27fc86fadee78c8f0f1280c39dfc8577df20ae2d4bf312e07987425",
+      "sha256": "838744db3e259b0362e692b56aeea34f9599a086df55a4879a510c2da21e371b",
+      "size": 1332434,
+      "changes": {
+        "session_start_time": "day set to 01",
+        "timestamps_reference_time": "day set to 01"
+      }
+    },
+    {
+      "path": "sub-04/sub-04_ses-20170101T161000_behavior+ecephys.nwb",
+      "dandi_asset_id": "f16e8341-a40a-45fe-98a9-89c18455b6bf",
+      "dandi_sha256_original": "16d8a149e9d53240c623c0aa17b0da0093a05a2c6f978e4ef086ccfb85d70284",
+      "sha256": "25dbec39dddd10ca83eb97a62fc7f7cf071c53052312c50842f9d84007c23735",
+      "size": 8355720850,
+      "changes": {
+        "session_start_time": "day set to 01",
+        "timestamps_reference_time": "day set to 01"
+      }
+    },
+    {
+      "path": "sub-05/sub-05_ses-20180701T132100_behavior+ecephys.nwb",
+      "dandi_asset_id": "9d6626df-5d06-4daa-8707-b71dcdd13f7a",
+      "dandi_sha256_original": "70c892491b65ca8fbebe1777e39dd1524cf11272c30f93687694a910c981ed21",
+      "sha256": "7fbf8c6acb170e22e09588cfccd6bc84cb236bc664423cb07fc33231570cd6db",
+      "size": 1480170264,
+      "changes": {
+        "session_start_time": "day set to 01",
+        "timestamps_reference_time": "day set to 01"
+      }
+    },
+    {
+      "path": "sub-06/sub-06_ses-20171001T113600_behavior+ecephys.nwb",
+      "dandi_asset_id": "319021ae-14dd-4c64-8731-eb5a4bd22fcf",
+      "dandi_sha256_original": "e8ff02d63f850f93aa6848b33f70b1f398ee90efb68800fae838cce9c72000ee",
+      "sha256": "cce636216aa3a1aa60adea721a9e1d2b423594d23aa7501ba1a417747fa32b5b",
+      "size": 2774705254,
+      "changes": {
+        "session_start_time": "day set to 01",
+        "timestamps_reference_time": "day set to 01"
+      }
+    },
+    {
+      "path": "sub-07/sub-07_ses-20181001T183600_behavior+ecephys.nwb",
+      "dandi_asset_id": "65e3bd32-aed6-4f62-95a0-cd06c8c15a5e",
+      "dandi_sha256_original": "623473e31ab1a2f0193f100797221cf387f48776b2ac4ef59d178d98020d38b6",
+      "sha256": "4cd229af55886b8a93453dfe4114ec5d93c4c18c617c5764aafd4000a969771c",
+      "size": 3320127551,
+      "changes": {
+        "session_start_time": "day set to 01",
+        "timestamps_reference_time": "day set to 01"
+      }
+    },
+    {
+      "path": "sub-08/sub-08_ses-20190101T110300_behavior+ecephys.nwb",
+      "dandi_asset_id": "eae6dcd2-d2be-4eb1-9ab4-f2e0691de5f3",
+      "dandi_sha256_original": "ce7c6daefecd283a72b18a28bc938be44f60356a5e5cd5e1821e2217e0965c7e",
+      "sha256": "60f4ebb3df3f58fe30a25d79919f3c89977769cc31e142bdb19956190f8cfcaa",
+      "size": 3267487266,
+      "changes": {
+        "session_start_time": "day set to 01",
+        "timestamps_reference_time": "day set to 01"
+      }
+    },
+    {
+      "path": "sub-08/sub-08_ses-20190101T125000_behavior+ecephys.nwb",
+      "dandi_asset_id": "b8ee3024-11e8-4ff6-b91c-2522ce960e88",
+      "dandi_sha256_original": "fb4f7e1b401d00a7106f3ad033340331cbbcfadedb3dae0c17730b7460dd0548",
+      "sha256": "2fefc995b682edea9110eac9d3b7651b640bb390206c9c95196c8cd16bc690f4",
+      "size": 3359122189,
+      "changes": {
+        "session_start_time": "day set to 01",
+        "timestamps_reference_time": "day set to 01"
+      }
+    },
+    {
+      "path": "sub-09/sub-09_ses-20150301T112000_behavior+ecephys.nwb",
+      "dandi_asset_id": "5e9bf7bb-3e39-4ffe-b29f-01c8119ed54a",
+      "dandi_sha256_original": "ae391d4839397adcf4f1b8314e29c5d28ff8d61472fd11a7988960ee8818c1e8",
+      "sha256": "017fe8b3fdd86b0f0045a6039ae16f7907313ef47f8d491672de2bd4cfc4be95",
+      "size": 1792860899,
+      "changes": {
+        "session_start_time": "day set to 01",
+        "timestamps_reference_time": "day set to 01"
+      }
+    },
+    {
+      "path": "sub-10/sub-10_ses-20160301T114400_behavior+ecephys.nwb",
+      "dandi_asset_id": "db9f6988-139f-4e87-ac07-36c7aa0116ed",
+      "dandi_sha256_original": "a72326ba1ab0ded02946233ec8b51787871677f6faccdd0755bfac49f5ad48dd",
+      "sha256": "cdb69262c7710b7b97f563ed3902e17c6692120218078f75476a319fa62ae3aa",
+      "size": 2571523530,
+      "changes": {
+        "session_start_time": "day set to 01",
+        "timestamps_reference_time": "day set to 01"
+      }
+    },
+    {
+      "path": "sub-11/sub-11_ses-20190501T195800_behavior+ecephys.nwb",
+      "dandi_asset_id": "9a23388d-dce7-436f-accd-1190cb7b78ff",
+      "dandi_sha256_original": "fadc530c1fc7f2961de58a47694c2872691d54e5905ec8e221de8904bbb522fe",
+      "sha256": "43923c258e5bee32fd71ee1b7e6fbb77af815fb699ebe4ce8c74693e7b4b0c87",
+      "size": 539976,
+      "changes": {
+        "session_start_time": "day set to 01",
+        "timestamps_reference_time": "day set to 01"
+      }
+    },
+    {
+      "path": "sub-12/sub-12_ses-20161201T103800_obj-16z48k1_behavior+ecephys.nwb",
+      "dandi_asset_id": "f51794f5-6ba3-4588-bea9-f493186ab033",
+      "dandi_sha256_original": "da0f5d203e99e1defec7e7cf1181e40f6dd15d4a84f100d5abf205d1de65b39f",
+      "sha256": "695974e41421dba77a0887f44a630e8697507f09b301608a16ffc82922271105",
+      "size": 718656,
+      "changes": {
+        "session_start_time": "day set to 01",
+        "timestamps_reference_time": "day set to 01"
+      }
+    },
+    {
+      "path": "sub-12/sub-12_ses-20161201T103800_obj-1h9ryn9_behavior+ecephys.nwb",
+      "dandi_asset_id": "a6bd72b1-1071-4d20-9d81-78bf3ad745af",
+      "dandi_sha256_original": "d26e5f638e72158f48bff3317c14d4431902c46119b21ccf4fdfa10a1e77b7ce",
+      "sha256": "00fa32c22b27d0fa3a6253251b795bebd5b4389e5a588cdb6a2b5fce91dfa837",
+      "size": 5477766169,
+      "changes": {
+        "session_start_time": "day set to 01",
+        "timestamps_reference_time": "day set to 01"
+      }
+    },
+    {
+      "path": "sub-12/sub-12_ses-20161201T103800_obj-cpvbt2_behavior+ecephys.nwb",
+      "dandi_asset_id": "ba30fc51-fabb-4f09-b773-b783b6f17d95",
+      "dandi_sha256_original": "20488fc34fbfc1f5188935aea5e0bfd2dff47cd38eb8d26dcda47bb96ab13144",
+      "sha256": "5c3c682af787561658aa52e037c2f8dfc7ba5ee57c65ad84b1882d703aae699f",
+      "size": 718656,
+      "changes": {
+        "session_start_time": "day set to 01",
+        "timestamps_reference_time": "day set to 01"
+      }
+    },
+    {
+      "path": "sub-12/sub-12_ses-20161201T103800_obj-p4v231_behavior+ecephys.nwb",
+      "dandi_asset_id": "744e9155-09cb-405c-887e-3e07bfa07720",
+      "dandi_sha256_original": "c020ed98547845faa7b7623813b911dcaa0dce62dabfdbefcbf168d342a3f81f",
+      "sha256": "8605aed4eed017cc29533261e8e0fadae8a27bc5ab44179af5bb669ef5f7ea49",
+      "size": 5477766169,
+      "changes": {
+        "session_start_time": "day set to 01",
+        "timestamps_reference_time": "day set to 01"
+      }
+    },
+    {
+      "path": "sub-13/sub-13_ses-20160201T110700_behavior+ecephys.nwb",
+      "dandi_asset_id": "e18f1546-9a33-4909-b24a-212bed23c4bd",
+      "dandi_sha256_original": "e412ed30811198baa204eee499f783bffce18828369905704b29b19001efa8ac",
+      "sha256": "255b1ee12fad8814d42eafe818b870abce829b9929da63581162ccb71fd09789",
+      "size": 6598691518,
+      "changes": {
+        "session_start_time": "day set to 01",
+        "timestamps_reference_time": "day set to 01"
+      }
+    }
+  ]
+}
