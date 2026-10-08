@@ -119,3 +119,9 @@ sourcedata copies the day of session_start_time and timestamps_reference_time is
 day kept), and the dates in the file names are masked the same way; BIDS files carry only the recording month
 (scans.tsv). No names, birth dates or hospital IDs were found in the NWB files. The authors' public conversion
 repository holds hospital patient numbers; the hospital therefore keeps a key, and none of those numbers is copied here.
+
+## Ethics
+
+Verbatim from Boran E, Hilfiker P, Stieglitz L, Sarnthein J, Klaver P (2022). Persistent neuronal firing in the medial temporal lobe supports performance and workload of visual working memory in humans. NeuroImage 254:119123. https://doi.org/10.1016/j.neuroimage.2022.119123, section "Ethics statement":
+
+> The study was approved by the institutional ethics review board (Kantonale Ethikkommission Zürich, PB-2016-02055) and all participants gave written informed consent.
