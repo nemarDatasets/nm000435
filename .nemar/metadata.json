@@ -1,9 +1,9 @@
 {
   "version": "2.0",
   "pipeline_stage": "validated",
-  "title": "Human medial temporal lobe iEEG during a visual working memory task (Boran et al.; DANDI 000575)",
-  "description": "Intracranial EEG recordings from medial temporal lobe depth electrodes (amygdala, hippocampus, entorhinal and parahippocampal cortex) in patients with drug-resistant epilepsy performing a visual working memory change-detection task with set sizes of 1, 2, 4 or 6 items. The dataset is a BIDS-iEEG conversion of the continuous iEEG series released in NWB format on DANDI (000575), with corrected sampling rates, amplitude units, event tables and MNI electrode coordinates. It covers 11 participants, 12 sessions and 13 recordings.",
-  "methods_description": "Recordings were made with a Neuralynx ATLAS system at the University Hospital Zurich while patients with invasive monitoring performed a change-detection task (encoding 0.8 s, retention 0.9 s, probe 2 s; about 192 trials per session). NWB files were converted to BrainVision float32 microvolt format without filtering, resampling or re-referencing. Sampling rates were verified using the 50 Hz mains peak and coverage of trial times.",
+  "title": "Boran-2022-persistent-10.1016/j.neuroimage.2022.119123",
+  "description": "Intracranial EEG recorded from depth electrodes in the medial temporal lobe (amygdala, hippocampus, entorhinal and parahippocampal cortex) of patients with drug-resistant epilepsy at University Hospital Zurich. Participants performed a visual working memory change-detection task with set sizes of 1, 2, 4 or 6 items. This is a BIDS-iEEG conversion of the continuous LFP series from the authors' NWB release on DANDI (000575), with corrected sampling rates and amplitude units, MNI electrode coordinates, and trial-level events.",
+  "methods_description": "Recordings were made with a Neuralynx ATLAS system (32 kHz, hardware passband 1-8000 Hz). The authors exported them via FieldTrip to NWB, and most sessions were downsampled to 4 kHz. The NWB data were converted to BrainVision BIDS-iEEG as float32 microvolts. The sampling rate was verified from the 50 Hz mains peak, series coverage, and timestamps. No filtering, resampling or re-referencing was applied. Events were derived from the NWB trial, epoch and response tables.",
   "license": "CC-BY-4.0",
   "dataset_type": "derivative",
   "authors": {
@@ -40,7 +40,10 @@
       "term": "iEEG"
     },
     {
-      "term": "Working Memory"
+      "term": "working memory"
+    },
+    {
+      "term": "medial temporal lobe"
     },
     {
       "term": "Epilepsy",
@@ -48,19 +51,9 @@
       "value_uri": "http://id.nlm.nih.gov/mesh/D004827"
     },
     {
-      "term": "Temporal Lobe",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D013702"
-    },
-    {
       "term": "Hippocampus",
       "subject_scheme": "MeSH",
       "value_uri": "http://id.nlm.nih.gov/mesh/D006624"
-    },
-    {
-      "term": "Amygdala",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D000679"
     },
     {
       "term": "depth electrodes"
@@ -116,5 +109,5 @@
     ".vmrk",
     ".yml"
   ],
-  "source_hash": "c013939df001cb4bec3910ae37d33426213b452f4a2871cf792949db53d7b584"
+  "source_hash": "798b295981646dd3933425cc8f454578bae5c44083ed0f0d1ab73874eca0d9b4"
 }
