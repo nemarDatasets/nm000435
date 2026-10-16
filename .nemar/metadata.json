@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "Human medial temporal lobe iEEG during a visual working memory task (Boran et al.; DANDI 000575)",
-  "description": "Intracranial EEG recorded from depth electrodes in the medial temporal lobe (amygdala, hippocampus, entorhinal and parahippocampal cortex) of patients with drug-resistant epilepsy at University Hospital Zurich. Participants performed a visual working memory change-detection task with set sizes of 1, 2, 4 or 6 items. This is a BIDS-iEEG conversion of the continuous LFP series from the authors' NWB release on DANDI (000575), with corrected sampling rates and amplitude units, MNI electrode coordinates, and trial-level events.",
-  "methods_description": "Recordings were made with a Neuralynx ATLAS system (32 kHz, hardware passband 1-8000 Hz). The authors exported them via FieldTrip to NWB, and most sessions were downsampled to 4 kHz. The NWB data were converted to BrainVision BIDS-iEEG as float32 microvolts. The sampling rate was verified from the 50 Hz mains peak, series coverage, and timestamps. No filtering, resampling or re-referencing was applied. Events were derived from the NWB trial, epoch and response tables.",
+  "description": "Intracranial EEG recordings from depth electrodes in the medial temporal lobe (amygdala, hippocampus, entorhinal and parahippocampal cortex) of patients with drug-resistant epilepsy undergoing invasive monitoring. Patients performed a visual working memory change-detection task with set sizes of 1, 2, 4 or 6 items. This BIDS-iEEG representation converts the continuous LFP series originally released in NWB format on DANDI (000575), with corrected sampling rates, microvolt amplitude units, MNI electrode coordinates and task events.",
+  "methods_description": "Recordings were made with a Neuralynx ATLAS system (32 kHz, hardware passband 1-8000 Hz). The authors exported them via FieldTrip to NWB, and most were downsampled to 4 kHz. Each trial comprised encoding (0.8 s), retention (0.9 s) and probe (2 s) periods, with about 192 trials per session. The NWB-to-BIDS conversion corrected the sampling rates using 50 Hz mains peaks and data coverage, wrote values as float32 microvolts, and applied no filtering, resampling or re-referencing.",
   "license": "CC-BY-4.0",
   "dataset_type": "derivative",
   "authors": {
@@ -40,10 +40,7 @@
       "term": "iEEG"
     },
     {
-      "term": "working memory"
-    },
-    {
-      "term": "medial temporal lobe"
+      "term": "Working Memory"
     },
     {
       "term": "Epilepsy",
@@ -56,7 +53,15 @@
       "value_uri": "http://id.nlm.nih.gov/mesh/D006624"
     },
     {
-      "term": "depth electrodes"
+      "term": "Amygdala",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D000679"
+    },
+    {
+      "term": "medial temporal lobe"
+    },
+    {
+      "term": "NWB"
     }
   ],
   "related_identifiers": [
