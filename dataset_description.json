@@ -1,5 +1,5 @@
 {
-  "Name": "Boran-2022-persistent-10.1016/j.neuroimage.2022.119123",
+  "Name": "Human medial temporal lobe iEEG during a visual working memory task (Boran et al.; DANDI 000575)",
   "BIDSVersion": "1.10.0",
   "DatasetType": "derivative",
   "License": "CC-BY-4.0",
@@ -47,5 +47,5 @@
     }
   ],
   "DatasetDOI": "10.82901/nemar.nm000435",
-  "Version": "1.0.1"
+  "Version": "1.0.2"
 }
